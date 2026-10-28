@@ -3,6 +3,10 @@
 A login and signup form with an animated sliding panel. Click **Login** or **Register** and the panel slides to switch between the Sign Up and Login views.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Animated sliding panel that switches between Sign Up and Login
